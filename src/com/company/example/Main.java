@@ -7,6 +7,9 @@ public class Main {
 
 	    Print print = new Print();
 	    print.printSomething("second version");
+
+
+		print.printSomething("this is a feature2 print");
     }
 
 }
